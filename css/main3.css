@@ -1,0 +1,23 @@
+.box {
+    width: 1200px;
+    height: 400px;
+    background-color: grey;
+    text-align: center;
+    color: white;
+}
+.boxes1{
+    background-color: dimgray;
+    width: 120px;
+    height: 20px;
+    border-radius: 10px;
+    margin-left: 540px;
+}
+.sana{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+    color: black;
+}
+.text-sana{
+    text-align: center;
+}
